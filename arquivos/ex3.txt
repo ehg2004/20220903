@@ -1,0 +1,8 @@
+//Enzo Holzmann Gaio 2449013
+
+Utilizando dois elementos peek (como peek 1 e peek 2),
+poderiamos dividir o vetor em dois menores e posicionar o peek1 no 0 e o peek2 no tamanho da primeira fila, 
+poderia se dobrar o numero de funções ou ainda usar os mesmos adicionando mais um argumento, 
+o de qual fila se refere a açao;
+
+
