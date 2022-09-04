@@ -81,13 +81,16 @@ int main () {
   char* c1 =reversed_polish_notation (c);
   int i=0;
   printf("\n");
+
+  /*
   while(c1[i]!='\0')
   {
     printf(" %c", c1[i]);
     i++;
   }
-  //printf("\n %s ", c1);
-  printf("%d \n",compute_polish_expression (c1));
+  */
+
+  printf("\n %d \n",compute_polish_expression (c1));
   
   return 0;
 }
